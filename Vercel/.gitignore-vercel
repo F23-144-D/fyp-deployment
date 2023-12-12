@@ -1,6 +1,3 @@
-/Dataset
-
-#--vercel--#
 .vercel
 *.log
 *.pyc
